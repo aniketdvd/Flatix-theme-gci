@@ -1,0 +1,157 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.topbar{
+  z-index: 1;
+  background-color: #333;
+  position: fixed;
+  width: 100%;
+}
+
+header{
+    width: 100%;
+    padding-top: 210px;
+    padding-bottom: 210px;
+    background-image: url('./giphy.gif');
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+header h1{
+    font-weight: 700;
+}
+.logo{
+    padding: 15px;
+    font-weight: 700; 
+    color: #888888;
+    font-size: 20px;
+}
+.logo:hover{
+    color: #aaaaaa;
+}
+.logo:not(:hover){
+    color: #888888;
+}
+
+.right{
+    padding: 20px;
+    color: #333333;
+    font-size: 15px;
+}
+.right a{
+    padding: 20px; 
+    color: #333333;
+    font-size: 15px;
+}
+.header-button{
+    width: 280px;
+    border: 0px;
+    margin: 10px;   
+    font-weight: 600;
+    color: #444444;
+    border-radius: 40pt;
+    font-size: 20px;
+    display: inline-block;
+    padding: 15px;
+}
+main{
+    padding: 5%;
+}
+footer{
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+}
+footer td{
+    font-size: 15px;
+}
+
+.icon{
+    height: 75px;
+    margin: 5px;
+    border-radius: 40pt;
+    width: 75px;
+    background-size: cover;
+}
+footer .icon{
+    height: 50px;
+    margin: 5px;
+    border-radius: 40pt;
+    width: 50px;
+    background-color: aliceblue;
+    display: block;
+    background-size: cover;
+    float: left;
+}
+.icon-medium{
+    height: 100px;
+    float: left;
+    margin: 5px;
+    width: 100px;
+}
+.whatsapp{
+    display: inline-block;
+    background-image: url('./whatsapp.svg');
+}
+.googleplus{
+    display: inline-block;
+    background-image: url('./google-plus.svg'); 
+}
+.instagram{
+    display: inline-block;
+    background-image: url('instagram.svg');
+}
+.facebook{
+    display: inline-block;
+    background-image: url('facebook.svg');
+}
+.twitter{
+    display: inline-block;
+    background-image: url('twitter.svg');
+}
+.youtube{
+    display: inline-block;
+    background-image: url('youtube.svg');
+}
+.drupal{
+    display: inline-block;
+    background-image: url('drupal.svg');
+}
+.gci{
+    display: inline-block;
+    background-image: url('./codein-logo.svg');
+}
+.gsoc{
+    display: inline-block;
+    background-image: url('./GSoC-icon.svg');
+}
+.student{
+    display: inline-block;
+    background-image: url('./student.svg');
+}
+.panel-bottom{
+    width: 100%;
+    text-align: center
+}
+
+.panel-bottom{
+    color: #dddddd;
+    padding: 120px;
+    background: url('chrome_os_wallpaper_016.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.navbar .right a{
+    text-decoration: none;
+    color: #888888;
+}
+.container{
+    padding: 18px;
+}
+td{
+    width: 500px;
+    background: #2f2f2f;
+}

@@ -1,0 +1,13 @@
+name: flatix-second-install
+type: theme
+description: a flat material theme. Added student logo b2
+core: 8.x
+libraries:
+  - flatix/flaticism
+regions:
+  header: all the header stuff 
+  footer: footer stuff
+  content: all main content stuff
+regions_hidden:
+  - sidebar_first
+  - sidebar_second

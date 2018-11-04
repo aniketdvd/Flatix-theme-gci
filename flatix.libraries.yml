@@ -1,0 +1,7 @@
+flaticism:
+  version: 1.1
+  css:
+    theme:
+      animate.css: {}
+      materialize.css: {}
+      style.css: {}
