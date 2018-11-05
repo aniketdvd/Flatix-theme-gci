@@ -1,6 +1,6 @@
-name: flatix-third-install
+name: flatix-fourth-install
 type: theme
-description: a flat material theme. third rev
+description: a flat material theme. 4th rev - 2018 rev
 core: 8.x
 libraries:
   - flatix/flaticism
