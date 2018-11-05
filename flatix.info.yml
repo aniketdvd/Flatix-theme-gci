@@ -1,6 +1,6 @@
-name: flatix-second-install
+name: flatix-third-install
 type: theme
-description: a flat material theme. Added student logo b2
+description: a flat material theme. third rev
 core: 8.x
 libraries:
   - flatix/flaticism

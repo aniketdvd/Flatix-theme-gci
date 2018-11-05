@@ -22,6 +22,9 @@ header{
 header h1{
     font-weight: 700;
 }
+.card{
+    width: 200%;
+}
 .logo{
     display: block;
     padding: 15px;
