@@ -23,6 +23,7 @@ header h1{
     font-weight: 700;
 }
 .logo{
+    display: block;
     padding: 15px;
     font-weight: 700; 
     color: #888888;
