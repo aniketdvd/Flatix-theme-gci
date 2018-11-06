@@ -1,6 +1,6 @@
-name: flatix-fifth-install
+name: flatix-sixth-install
 type: theme
-description: a flat material theme. 5th rev - 2018 rev
+description: a flat material theme. 6th rev - added js
 core: 8.x
 libraries:
   - flatix/flaticism

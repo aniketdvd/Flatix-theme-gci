@@ -5,3 +5,6 @@ flaticism:
       animate.css: {}
       materialize.css: {}
       style.css: {}
+  js:
+    loadless.js: {}
+    loadmore.js: {}
